@@ -158,6 +158,8 @@
 
 ## TypeScript 
 
+- [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
+- [Simon-He95/vitesse-vscode](https://github.com/Simon-He95/vitesse-vscode) - Starter template for VS Code Extension
 - [deebor/tree-log](https://github.com/deebor/tree-log) - 
 - [vscode-use/utils](https://github.com/vscode-use/utils) - vscode api utils
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
