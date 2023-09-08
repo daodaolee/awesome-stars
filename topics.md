@@ -68,6 +68,7 @@
 - [rust](#rust)
 - [serverless](#serverless)
 - [software](#software)
+- [telegram](#telegram)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [vue](#vue)
@@ -495,6 +496,10 @@
 ## software 
 
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+
+## telegram 
+
+- [jackhawks/telegram-groups](https://github.com/jackhawks/telegram-groups) - 经过精心筛选，从5000+个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在issue中留言或提交pull requests。感谢您的关注！
 
 ## twitter 
 
