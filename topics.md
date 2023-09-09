@@ -271,6 +271,7 @@
 
 ## javascript 
 
+- [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
 - [fjc0k/yapi-to-typescript](https://github.com/fjc0k/yapi-to-typescript) - 根据 YApi 或 Swagger 的接口定义生成 TypeScript 或 JavaScript 的接口类型及其请求函数代码。
@@ -364,6 +365,7 @@
 
 ## others 
 
+- [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架
 - [antfu/bumpp](https://github.com/antfu/bumpp) - Interactive CLI that bumps your version numbers and more
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [Simon-He95/vitesse-vscode](https://github.com/Simon-He95/vitesse-vscode) - Starter template for VS Code Extension
