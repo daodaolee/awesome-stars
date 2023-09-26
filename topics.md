@@ -415,7 +415,7 @@
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [Leecason/vue-team-talks](https://github.com/Leecason/vue-team-talks) - talks by vue core team members https://vuejs.org/about/team.html
 - [Eternaldeath/blockchainHome](https://github.com/Eternaldeath/blockchainHome) - 构建区块链学习的知识体系合集，汇聚各种区块链资源
-- [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+- [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [ruidoc/react-pc-architec](https://github.com/ruidoc/react-pc-architec) - 
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
@@ -511,6 +511,7 @@
 
 ## typescript 
 
+- [yanhaijing/jslib-base](https://github.com/yanhaijing/jslib-base) - A modern JavaScript|Typescript library scaffolding, modularity, purity & extras
 - [wangdoc/typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) - TypeScript 教程
 - [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integra
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
