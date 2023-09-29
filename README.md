@@ -80,7 +80,7 @@
 - [ruidoc/react-pc-architec](https://github.com/ruidoc/react-pc-architec) - 
 - [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
 - [FEDarling/weekly-tracker](https://github.com/FEDarling/weekly-tracker) - ⛱ 周刊共读计划，目前涉及 Frontend Focus、JavaScript Weekly、React Status、Node Weekly 和  CSS Weekly 期刊，希望读者可以有所收获！🥳
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
 - [didi/mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
 - [daodaolee/netease-cloud](https://github.com/daodaolee/netease-cloud) - 🎷一个Mac端网易云音乐云盘上传的Electron版本程序，再也不用做windows的舔狗了！
