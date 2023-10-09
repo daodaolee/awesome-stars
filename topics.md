@@ -37,6 +37,7 @@
 - [frontend](#frontend)
 - [git](#git)
 - [github](#github)
+- [google](#google)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [html5](#html5)
@@ -92,6 +93,7 @@
 
 ## android 
 
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [didi/DoKit](https://github.com/didi/DoKit) - 一款面向泛前端产品研发全生命周期的效率平台。
 
@@ -241,6 +243,10 @@
 ## github 
 
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
+
+## google 
+
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 
 ## hacktoberfest 
 
@@ -488,6 +494,7 @@
 
 ## rust 
 
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [roogle-rs/roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
