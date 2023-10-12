@@ -179,7 +179,7 @@
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
 - [fjc0k/yapi-to-typescript](https://github.com/fjc0k/yapi-to-typescript) - 根据 YApi 或 Swagger 的接口定义生成 TypeScript 或 JavaScript 的接口类型及其请求函数代码。
 - [wangrongding/tiny-player](https://github.com/wangrongding/tiny-player) - 🎬 Tiny Player 是一个轻量、可扩展的视频播放器，支持常见格式与 m3u8 等流式播放。
-- [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例（持续更新）
+- [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
