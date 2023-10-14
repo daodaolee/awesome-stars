@@ -55,6 +55,7 @@
 
 ## JavaScript 
 
+- [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 - [yanhaijing/jslib-base](https://github.com/yanhaijing/jslib-base) - A modern JavaScript|Typescript library scaffolding, modularity, purity & extras
 - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
