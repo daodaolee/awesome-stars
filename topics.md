@@ -403,8 +403,8 @@
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 - [mondaylab/vue3-api](https://github.com/mondaylab/vue3-api) - 整理vue3API相关思维导图~
 - [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
-- [Jinjiang/zhlint](https://github.com/Jinjiang/zhlint) - A linting tool for Chinese language.
-- [rustlang-cn/Rustt](https://github.com/rustlang-cn/Rustt) - 🥇RustCn 翻译计划，代号 Rustt。这里有国内最优质、最实时的 Rust 技术文章、学习资料和新闻资讯，欢迎大家 🌟 订阅。
+- [zhlint-project/zhlint](https://github.com/zhlint-project/zhlint) - A linting tool for Chinese language.
+- [rustlang-cn/Rustt](https://github.com/rustlang-cn/Rustt) - RusttT 翻译小组的官方仓库，这里有国外优秀的技术文章、学习教程、新闻资讯的高质量翻译。
 - [fedtop/dev-go-docs](https://github.com/fedtop/dev-go-docs) - Documentation for dev-go
 - [ddiu8081/solidjs-starter](https://github.com/ddiu8081/solidjs-starter) - Side project starter template
 - [zenozeng/Free-Chinese-Fonts](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体
