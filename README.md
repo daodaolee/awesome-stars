@@ -74,7 +74,7 @@
 - [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push) - 微信公众号推送-给女朋友的浪漫
 - [purplebamboo/font-carrier](https://github.com/purplebamboo/font-carrier) - font-carrier是一个功能强大的字体操作库，使用它你可以随心所欲的操作字体。让你可以在svg的维度改造字体的展现形状。
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [itorr/one-last-image](https://github.com/itorr/one-last-image) - 🧸「One Last Image」卢浮宫生成器 One Last Kiss 封面风格生成
 - [daodaolee/china-color](https://github.com/daodaolee/china-color) - 中国传统色
 - [dashnowords/blogs](https://github.com/dashnowords/blogs) - 个人博客，讲述野生前端码农的内功修炼和自我修养。
