@@ -218,7 +218,7 @@
 
 ## eslint 
 
-- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config presets
+- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 
 ## font 
 
