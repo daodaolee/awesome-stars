@@ -17,7 +17,6 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
-- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -159,10 +158,6 @@
 ## Shell 
 
 - [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
-
-## Swift 
-
-- [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
 
 ## TypeScript 
 
