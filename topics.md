@@ -438,7 +438,6 @@
 - [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) - Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs
 - [yuanyuanbyte/Blog](https://github.com/yuanyuanbyte/Blog) - 圆圆的博客，预计写七个系列：JavaScript深入系列、JavaScript专题系列、网络系列、Webpack系列、Vue系列、JavaScript基础系列、HTML&CSS应知应会系列。
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2) - free V2
-- [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
 - [daodaolee/netease-cloud](https://github.com/daodaolee/netease-cloud) - 🎷一个Mac端网易云音乐云盘上传的Electron版本程序，再也不用做windows的舔狗了！
 - [luch1994/my-static-web](https://github.com/luch1994/my-static-web) - Nodejs简单的静态文件服务器
 - [Programming-With-Love/.github](https://github.com/Programming-With-Love/.github) - :hamburger: :heart: :moneybag: :zap: 用爱发电 (Programming With Love) 开源技术爱好者组织 | :sparkles: 组织简介 | :construction_worker: 所有成员及架构 | :penguin: 文明守则-开源精神 | :heavy_plus_sign: 加入我们 | 项目转入 :arrow_down: && 转出 :
