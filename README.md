@@ -40,7 +40,7 @@
 ## HTML 
 
 - [phodal/frontend](https://github.com/phodal/frontend) - 《大前端：前端的扩张》
-- [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（请勿在贡献代码以外的情况下 Fork）
+- [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️请勿在贡献代码以外的情况下 Fork）
 - [chenglou/chenglou.github.io](https://github.com/chenglou/chenglou.github.io) - 
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [Eternaldeath/blockchainHome](https://github.com/Eternaldeath/blockchainHome) - 构建区块链学习的知识体系合集，汇聚各种区块链资源
