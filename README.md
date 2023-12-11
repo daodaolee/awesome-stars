@@ -139,7 +139,7 @@
 ## Python 
 
 - [google/diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
-- [jackhawks/telegram-groups](https://github.com/jackhawks/telegram-groups) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
+- [jackhawks/rectg](https://github.com/jackhawks/rectg) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -216,6 +216,7 @@
 
 ## Vue 
 
+- [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2
 - [Cc-Edit/CcClip](https://github.com/Cc-Edit/CcClip) - vue and ffmpeg based tool for video clips. 使用vue(vue3) + ffmpeg + wasm 实现纯前端音视频编辑，功能包括：视频剪辑、音频剪辑、音频合成裁剪、音波展示、视频抽帧、gif抽帧、帧播放器、字幕、贴图、时间轴、素材轨道
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
