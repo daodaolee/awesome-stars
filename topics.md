@@ -404,7 +404,7 @@
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [Simon-He95/vitesse-vscode](https://github.com/Simon-He95/vitesse-vscode) - Starter template for VS Code Extension
 - [deebor/tree-log](https://github.com/deebor/tree-log) - 
-- [vscode-use/utils](https://github.com/vscode-use/utils) - vscode api utils
+- [vscode-use/utils](https://github.com/vscode-use/utils) - vscode api utils that encapsulation based on vscode api provides simpler use
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
 - [monako97/neko-ui](https://github.com/monako97/neko-ui) - 基于 SolidJS、Typescript 开发的的 WebComponents 组件库
 - [ddy-ddy/cs-408](https://github.com/ddy-ddy/cs-408) - 计算机考研专业课程408相关的复习经验，资源和OneNote笔记
@@ -472,7 +472,7 @@
 - [daodaolee/algorithm-guide](https://github.com/daodaolee/algorithm-guide) - 算法剖析指南，针对刷过的leetcode题，记录一些常用的算法
 - [daodaolee/leetcode](https://github.com/daodaolee/leetcode) - 记录自己的leetcode刷题历程，也欢迎大家一起探讨学习📣
 - [daodaolee/typora-scrolls](https://github.com/daodaolee/typora-scrolls) - A typora theme in sheepskin style💈
-- [chuangzhoucom/multi-level-address](https://github.com/chuangzhoucom/multi-level-address) - 多级联动地址数据JSON文件；省份、城市、区县、乡镇、村庄
+- [OPENCZ/multi-level-address](https://github.com/OPENCZ/multi-level-address) - 多级联动地址数据JSON文件；省份、城市、区县、乡镇、村庄
 - [KieSun/today-i-learned](https://github.com/KieSun/today-i-learned) - 记录今天学了什么
 - [Weiwf/docker-mindmap](https://github.com/Weiwf/docker-mindmap) - 利用思维导图整理的docker知识点
 - [jirengu/frontend-interview](https://github.com/jirengu/frontend-interview) - 前端笔试面试题题库
