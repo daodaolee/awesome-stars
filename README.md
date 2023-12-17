@@ -130,7 +130,7 @@
 - [sxcool1024/Jay](https://github.com/sxcool1024/Jay) - 周杰伦无损专辑，项目制作者是一个超级发烧友，购买了周杰伦全部正版碟片，正版专辑价格多少，懂行的都清楚。本项目分享的是正版碟片提取的无损音轨，点目录可查看对应专辑详情并下载。项目共12.18GB
 - [daodaolee/review-article](https://github.com/daodaolee/review-article) - 同步公众号文章，章节性的复习笔记
 - [daodaolee/algorithm-guide](https://github.com/daodaolee/algorithm-guide) - 算法剖析指南，针对刷过的leetcode题，记录一些常用的算法
-- [chuangzhoucom/multi-level-address](https://github.com/chuangzhoucom/multi-level-address) - 多级联动地址数据JSON文件；省份、城市、区县、乡镇、村庄
+- [OPENCZ/multi-level-address](https://github.com/OPENCZ/multi-level-address) - 多级联动地址数据JSON文件；省份、城市、区县、乡镇、村庄
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 - [KieSun/today-i-learned](https://github.com/KieSun/today-i-learned) - 记录今天学了什么
@@ -176,7 +176,7 @@
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [Simon-He95/vitesse-vscode](https://github.com/Simon-He95/vitesse-vscode) - Starter template for VS Code Extension
 - [deebor/tree-log](https://github.com/deebor/tree-log) - 
-- [vscode-use/utils](https://github.com/vscode-use/utils) - vscode api utils
+- [vscode-use/utils](https://github.com/vscode-use/utils) - vscode api utils that encapsulation based on vscode api provides simpler use
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
 - [monako97/neko-ui](https://github.com/monako97/neko-ui) - 基于 SolidJS、Typescript 开发的的 WebComponents 组件库
 - [bfehub/vlib-starter](https://github.com/bfehub/vlib-starter) - Vue3 组件库开发模板 & Vue3 组件库次佳实践指南。
