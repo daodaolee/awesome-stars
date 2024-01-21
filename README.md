@@ -177,7 +177,7 @@
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [Simon-He95/vitesse-vscode](https://github.com/Simon-He95/vitesse-vscode) - Starter template for VS Code Extension
 - [deebor/tree-log](https://github.com/deebor/tree-log) - 
-- [vscode-use/utils](https://github.com/vscode-use/utils) - vscode api utils that encapsulation based on vscode api provides simpler use
+- [vscode-use/utils](https://github.com/vscode-use/utils) - vscode lodash
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
 - [monako97/neko-ui](https://github.com/monako97/neko-ui) - 基于 SolidJS、Typescript 开发的的 WebComponents 组件库
 - [bfehub/vlib-starter](https://github.com/bfehub/vlib-starter) - Vue3 组件库开发模板 & Vue3 组件库次佳实践指南。
