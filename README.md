@@ -126,7 +126,7 @@
 - [chinaBerg/awesome-canvas](https://github.com/chinaBerg/awesome-canvas) - Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - [Leecason/vue-team-talks](https://github.com/Leecason/vue-team-talks) - talks by vue core team members https://vuejs.org/about/team.html
 - [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme) - The beautiful Tailwind typography layout for Typora.
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [yuanyuanbyte/Blog](https://github.com/yuanyuanbyte/Blog) - 圆圆的博客，预计写七个系列：JavaScript深入系列、JavaScript专题系列、网络系列、Webpack系列、Vue系列、JavaScript基础系列、HTML&CSS应知应会系列。
 - [Programming-With-Love/.github](https://github.com/Programming-With-Love/.github) - :hamburger: :heart: :moneybag: :zap: 用爱发电 (Programming With Love) 开源技术爱好者组织 | :sparkles: 组织简介 | :construction_worker: 所有成员及架构 | :penguin: 文明守则-开源精神 | :heavy_plus_sign: 加入我们 | 项目转入 :arrow_down: && 转出 :
 - [sxcool1024/Jay](https://github.com/sxcool1024/Jay) - 周杰伦无损专辑，项目制作者是一个超级发烧友，购买了周杰伦全部正版碟片，正版专辑价格多少，懂行的都清楚。本项目分享的是正版碟片提取的无损音轨，点目录可查看对应专辑详情并下载。项目共12.18GB
