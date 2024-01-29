@@ -465,7 +465,7 @@
 - [dashnowords/blogs](https://github.com/dashnowords/blogs) - 个人博客，讲述野生前端码农的内功修炼和自我修养。
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [Leecason/vue-team-talks](https://github.com/Leecason/vue-team-talks) - talks by vue core team members https://vuejs.org/about/team.html
-- [Eternaldeath/blockchainHome](https://github.com/Eternaldeath/blockchainHome) - 构建区块链学习的知识体系合集，汇聚各种区块链资源
+- [Eternaldeath/BlockchainHome](https://github.com/Eternaldeath/BlockchainHome) - 构建区块链学习的知识体系合集，汇聚各种区块链资源
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [ruidoc/react-pc-architec](https://github.com/ruidoc/react-pc-architec) - 
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
