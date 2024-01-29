@@ -45,7 +45,7 @@
 - [chenglou/chenglou.github.io](https://github.com/chenglou/chenglou.github.io) - 
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
-- [Eternaldeath/blockchainHome](https://github.com/Eternaldeath/blockchainHome) - 构建区块链学习的知识体系合集，汇聚各种区块链资源
+- [Eternaldeath/BlockchainHome](https://github.com/Eternaldeath/BlockchainHome) - 构建区块链学习的知识体系合集，汇聚各种区块链资源
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2) - free V2
 - [luch1994/my-static-web](https://github.com/luch1994/my-static-web) - Nodejs简单的静态文件服务器
 
