@@ -429,7 +429,7 @@
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
 - [monako97/neko-ui](https://github.com/monako97/neko-ui) - 基于 SolidJS、Typescript 开发的的 WebComponents 组件库
 - [ddy-ddy/cs-408](https://github.com/ddy-ddy/cs-408) - 计算机考研专业课程408相关的复习经验，资源和OneNote笔记
-- [narendrasss/NotANumber](https://github.com/narendrasss/NotANumber) - An interactive blog on computer science and web dev 💡
+- [nandanmen/NotANumber](https://github.com/nandanmen/NotANumber) - An interactive blog on computer science and web dev 💡
 - [sl1673495/vue3-roadmap](https://github.com/sl1673495/vue3-roadmap) - 呕心沥血，精心整理的 Vue2 & 3 学习路线图，成为高级前端工程师的必经之路！
 - [antfu/use](https://github.com/antfu/use) - Things I am using
 - [wangrongding/tiny-player](https://github.com/wangrongding/tiny-player) - 🎬 Tiny Player 是一个轻量、可扩展的视频播放器，支持常见格式与 m3u8 等流式播放。
