@@ -74,6 +74,7 @@
 - [rust](#rust)
 - [serverless](#serverless)
 - [software](#software)
+- [stable-diffusion](#stable-diffusion)
 - [telegram](#telegram)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -449,7 +450,7 @@
 - [mondaylab/vue3-api](https://github.com/mondaylab/vue3-api) - 整理vue3API相关思维导图~
 - [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
 - [zhlint-project/zhlint](https://github.com/zhlint-project/zhlint) - A linting tool for Chinese language.
-- [0xx0-ai/loong](https://github.com/0xx0-ai/loong) - An progammable and context-aware agentic platform.
+- [0x-ai/apm](https://github.com/0x-ai/apm) - What will happen when agent has mind?  APM ( Agent plus Mind ) will give you the final answer.
 - [fedtop/dev-go-docs](https://github.com/fedtop/dev-go-docs) - Documentation for dev-go
 - [ddiu8081/solidjs-starter](https://github.com/ddiu8081/solidjs-starter) - Side project starter template
 - [zenozeng/Free-Chinese-Fonts](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体
@@ -559,6 +560,11 @@
 ## software 
 
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+
+## stable-diffusion 
+
+- [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - It's not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from "The Three-
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## telegram 
 
