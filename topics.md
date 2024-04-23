@@ -450,7 +450,7 @@
 - [mondaylab/vue3-api](https://github.com/mondaylab/vue3-api) - 整理vue3API相关思维导图~
 - [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
 - [zhlint-project/zhlint](https://github.com/zhlint-project/zhlint) - A linting tool for Chinese language.
-- [0x-ai/apm](https://github.com/0x-ai/apm) - What will happen when agent has mind?  APM ( Agent plus Mind ) will give you the final answer.
+- [ibeatai/apm](https://github.com/ibeatai/apm) - What will happen when agent has mind?  APM ( Agent plus Mind ) will give you the final answer.
 - [fedtop/dev-go-docs](https://github.com/fedtop/dev-go-docs) - Documentation for dev-go
 - [ddiu8081/solidjs-starter](https://github.com/ddiu8081/solidjs-starter) - Side project starter template
 - [zenozeng/Free-Chinese-Fonts](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体
