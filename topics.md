@@ -75,6 +75,7 @@
 - [serverless](#serverless)
 - [software](#software)
 - [stable-diffusion](#stable-diffusion)
+- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -475,7 +476,6 @@
 - [ruidoc/react-pc-architec](https://github.com/ruidoc/react-pc-architec) - 
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
-- [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme) - The beautiful Tailwind typography layout for Typora.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) - Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs
 - [yuanyuanbyte/Blog](https://github.com/yuanyuanbyte/Blog) - 圆圆的博客，预计写七个系列：JavaScript深入系列、JavaScript专题系列、网络系列、Webpack系列、Vue系列、JavaScript基础系列、HTML&CSS应知应会系列。
@@ -566,6 +566,11 @@
 
 - [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - It's not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from "The Three-
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+## tailwindcss 
+
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme) - The beautiful Tailwind typography layout for Typora.
 
 ## telegram 
 
