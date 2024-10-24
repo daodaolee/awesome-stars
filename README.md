@@ -92,7 +92,7 @@
 - [daodaolee/netease-cloud](https://github.com/daodaolee/netease-cloud) - 🎷一个Mac端网易云音乐云盘上传的Electron版本程序，再也不用做windows的舔狗了！
 - [waitInHope/simple-webpack](https://github.com/waitInHope/simple-webpack) - webpack原理的简易实现
 - [hvianna/audioMotion.js](https://github.com/hvianna/audioMotion.js) - Media player and real-time audio spectrum analyzer written in JavaScript.
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [daodaolee/bookmark-search](https://github.com/daodaolee/bookmark-search) - 一个浏览器书签快捷搜索的小程序，可以通过url和名称快捷搜索出收藏的书签，支持亮暗模式自动切换。
 - [mollydl/drink-water](https://github.com/mollydl/drink-water) - 在我们日常工作中，经常会因为长时间伏案工作而忘记了喝水或起来走动走动，扭扭腰。于是乎，我开发了一款提醒各位码友定时喝水的chrome插件
 - [daodaolee/writing-js](https://github.com/daodaolee/writing-js) - 📌手写一些常用的js内置api，复习巩固离不开它！
