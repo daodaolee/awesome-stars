@@ -434,7 +434,7 @@
 - [dselegent/Learning-Notes](https://github.com/dselegent/Learning-Notes) - 个人学习笔记
 - [Quextion/ReactWTF](https://github.com/Quextion/ReactWTF) - react thinking lib.
 - [sokra/source-map-visualization](https://github.com/sokra/source-map-visualization) - Just a simple hacky visualisation of SourceMaps
-- [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT,FastGPT,Dify,Coze知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、公众号、5G 消息、WhatsApp
+- [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘书,全能的微信机器人管理平台,最简单的方式接入ChatGPT,FastGPT,Dify,Coze,扣子.支持绘图，语音识别，语音发送，定时任务，支持企微、公众号、5G 消息、WhatsApp
 - [leochen-g/wechatBot](https://github.com/leochen-g/wechatBot) - 微信每日说，三步教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题
 - [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) - Debug remotely and easily like chrome devtools.
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
