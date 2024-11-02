@@ -482,7 +482,7 @@
 - [moegi-design/vscode-theme](https://github.com/moegi-design/vscode-theme) - 🌸 An elegant theme for VS Code.
 - [zhw2590582/live-video-study-notes](https://github.com/zhw2590582/live-video-study-notes) - :tv: 整理前端视频直播相关技术的笔记，适合想入门前端流媒体技术的人阅读
 - [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
-- [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push) - 微信公众号推送-给女朋友的浪漫
+- [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push) - ✨微信公众号推送-给女朋友的浪漫
 - [purplebamboo/font-carrier](https://github.com/purplebamboo/font-carrier) - font-carrier是一个功能强大的字体操作库，使用它你可以随心所欲的操作字体。让你可以在svg的维度改造字体的展现形状。
 - [daodaolee/china-color](https://github.com/daodaolee/china-color) - 中国传统色
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
