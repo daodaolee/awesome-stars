@@ -437,6 +437,7 @@
 
 ## others 
 
+- [lucyonegit/wordflow](https://github.com/lucyonegit/wordflow) - lexical
 - [dselegent/Learning-Notes](https://github.com/dselegent/Learning-Notes) - 个人学习笔记
 - [Quextion/ReactWTF](https://github.com/Quextion/ReactWTF) - react thinking lib.
 - [sokra/source-map-visualization](https://github.com/sokra/source-map-visualization) - Just a simple hacky visualisation of SourceMaps
