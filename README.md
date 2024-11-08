@@ -172,6 +172,7 @@
 
 ## TypeScript 
 
+- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 一款好用的 Canvas 引擎，革新的体验。高效绘图 、UI 交互（小游戏、互动应用、组态）、图形编辑，前端开发必备~
 - [lucyonegit/wordflow](https://github.com/lucyonegit/wordflow) - lexical
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
