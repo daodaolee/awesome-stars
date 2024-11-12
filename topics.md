@@ -241,7 +241,7 @@
 
 ## design 
 
-- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 一款好用的 Canvas 引擎，革新的体验。高效绘图 、UI 交互（小游戏、互动应用、组态）、图形编辑，前端开发必备~
+- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 一款好用的 Canvas 引擎，革新的开发体验，用于高效绘图 、UI 交互、图形编辑。A user-friendly Canvas engine with a revolutionary development experience, for efficient drawing, UI interactions, and graphic editing.
 
 ## documentation 
 
@@ -314,7 +314,7 @@
 
 ## html5 
 
-- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 一款好用的 Canvas 引擎，革新的体验。高效绘图 、UI 交互（小游戏、互动应用、组态）、图形编辑，前端开发必备~
+- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 一款好用的 Canvas 引擎，革新的开发体验，用于高效绘图 、UI 交互、图形编辑。A user-friendly Canvas engine with a revolutionary development experience, for efficient drawing, UI interactions, and graphic editing.
 - [dongyuanxin/theme-bmw](https://github.com/dongyuanxin/theme-bmw) - ✋ Smart Voice: Voice for yourself | 微声: 请为自己发声
 
 ## icon-font 
@@ -418,7 +418,7 @@
 
 ## node 
 
-- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 一款好用的 Canvas 引擎，革新的体验。高效绘图 、UI 交互（小游戏、互动应用、组态）、图形编辑，前端开发必备~
+- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 一款好用的 Canvas 引擎，革新的开发体验，用于高效绘图 、UI 交互、图形编辑。A user-friendly Canvas engine with a revolutionary development experience, for efficient drawing, UI interactions, and graphic editing.
 - [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 
