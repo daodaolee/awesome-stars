@@ -174,7 +174,7 @@
 
 - [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 一款好用的 Canvas 引擎，革新的开发体验，用于高效绘图 、UI 交互、图形编辑。A user-friendly Canvas engine with a revolutionary development experience, for efficient drawing, UI interactions, and graphic editing.
 - [lucyonegit/wordflow](https://github.com/lucyonegit/wordflow) - lexical
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) - Debug remotely and easily like chrome devtools.
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
