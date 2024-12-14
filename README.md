@@ -106,6 +106,7 @@
 
 ## Others 
 
+- [YOYZHANG/open-source-ai-weekly](https://github.com/YOYZHANG/open-source-ai-weekly) - 优质AI开源项目周刊, 每周一更新
 - [dselegent/Learning-Notes](https://github.com/dselegent/Learning-Notes) - 个人学习笔记
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [wangdoc/typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) - TypeScript 教程
