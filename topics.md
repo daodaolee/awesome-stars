@@ -467,7 +467,7 @@
 - [deebor/tree-log](https://github.com/deebor/tree-log) - 
 - [vscode-use/utils](https://github.com/vscode-use/utils) - vscode lodash
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
-- [monako97/neko-ui](https://github.com/monako97/neko-ui) - 基于 SolidJS、Typescript 开发的的 WebComponents 组件库
+- [monako97/neko-ui](https://github.com/monako97/neko-ui) - 基于 SolidJS、Typescript 开发的 WebComponents 组件库
 - [ddy-ddy/cs-408](https://github.com/ddy-ddy/cs-408) - 计算机考研专业课程408相关的复习经验，资源和OneNote笔记
 - [nandanmen/NotANumber](https://github.com/nandanmen/NotANumber) - An interactive blog on computer science and web dev 💡
 - [sl1673495/vue3-roadmap](https://github.com/sl1673495/vue3-roadmap) - 呕心沥血，精心整理的 Vue2 & 3 学习路线图，成为高级前端工程师的必经之路！
