@@ -373,7 +373,7 @@
 
 ## library 
 
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+- [frontio-ai/heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 ## mac 
@@ -567,7 +567,7 @@
 
 ## reactjs 
 
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+- [frontio-ai/heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [FEDarling/weekly-tracker](https://github.com/FEDarling/weekly-tracker) - ⛱ 周刊共读计划，目前涉及 Frontend Focus、JavaScript Weekly、React Status、Node Weekly 和  CSS Weekly 期刊，希望读者可以有所收获！🥳
 
