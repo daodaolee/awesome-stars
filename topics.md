@@ -56,6 +56,7 @@
 - [js](#js)
 - [learning](#learning)
 - [library](#library)
+- [llm](#llm)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -375,6 +376,10 @@
 
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+
+## llm 
+
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 ## mac 
 
