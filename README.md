@@ -55,6 +55,7 @@
 
 ## JavaScript 
 
+- [npmstudy/Your-First-Node.js-with-TypeScript-Course](https://github.com/npmstudy/Your-First-Node.js-with-TypeScript-Course) - 你的第一门用TS写Node.js入门课
 - [Quextion/ReactWTF](https://github.com/Quextion/ReactWTF) - react thinking lib.
 - [sokra/source-map-visualization](https://github.com/sokra/source-map-visualization) - Just a simple hacky visualisation of SourceMaps
 - [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘书,全能微信机器人管理平台,简单的方式接入ChatGPT,FastGPT,Dify,Coze,扣子,DeepSeek.支持绘图，语音识别，语音发送，定时任务，支持企微、公众号、5G 消息、WhatsApp
@@ -107,7 +108,6 @@
 ## Others 
 
 - [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
-- [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 - [YOYZHANG/open-source-ai-weekly](https://github.com/YOYZHANG/open-source-ai-weekly) - 优质AI开源项目周刊, 每周一更新
 - [dselegent/Learning-Notes](https://github.com/dselegent/Learning-Notes) - 个人学习笔记
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
