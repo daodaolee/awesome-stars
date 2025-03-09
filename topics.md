@@ -455,7 +455,7 @@
 
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [YOYZHANG/open-source-ai-weekly](https://github.com/YOYZHANG/open-source-ai-weekly) - 优质AI开源项目周刊, 每周一更新
-- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎，高效绘图 、UI 交互、图形编辑。A Useful Canvas Engine.
+- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎，轻松实现图形编辑。Easy-to-Use Canvas Engine. Effortless Graphic Editing.
 - [lucyonegit/wordflow](https://github.com/lucyonegit/wordflow) - lexical
 - [dselegent/Learning-Notes](https://github.com/dselegent/Learning-Notes) - 个人学习笔记
 - [Quextion/ReactWTF](https://github.com/Quextion/ReactWTF) - react thinking lib.
