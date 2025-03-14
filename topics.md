@@ -474,7 +474,7 @@
 - [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) - Interactive CLI that bumps your version numbers and more
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [Simon-He95/vitesse-vscode](https://github.com/Simon-He95/vitesse-vscode) - Starter template for VS Code Extension
-- [deebor/tree-log](https://github.com/deebor/tree-log) - 
+- [daodaolee/tree-log](https://github.com/daodaolee/tree-log) - 
 - [vscode-use/utils](https://github.com/vscode-use/utils) - vscode lodash
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
 - [monako97/neko-ui](https://github.com/monako97/neko-ui) - 基于 SolidJS、Typescript 开发的 WebComponents 组件库
@@ -615,6 +615,7 @@
 
 ## telegram 
 
+- [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 - [jackhawks/rectg](https://github.com/jackhawks/rectg) - 本项目汇集5000+优质的Telegram群组、频道和机器人，为您提供高质量的学习和技术资源。内容涵盖热门群组、实用频道和各类机器人，助您快速找到感兴趣的资源，轻松提升技能。欢迎加入，一起探索丰富的Telegram资源库！
 
 ## twitter 
