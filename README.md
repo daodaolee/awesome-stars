@@ -108,6 +108,7 @@
 ## Others 
 
 - [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
+- [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 - [YOYZHANG/open-source-ai-weekly](https://github.com/YOYZHANG/open-source-ai-weekly) - 优质AI开源项目周刊, 每周一更新
 - [dselegent/Learning-Notes](https://github.com/dselegent/Learning-Notes) - 个人学习笔记
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
@@ -192,7 +193,7 @@
 - [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) - Interactive CLI that bumps your version numbers and more
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [Simon-He95/vitesse-vscode](https://github.com/Simon-He95/vitesse-vscode) - Starter template for VS Code Extension
-- [deebor/tree-log](https://github.com/deebor/tree-log) - 
+- [daodaolee/tree-log](https://github.com/daodaolee/tree-log) - 
 - [vscode-use/utils](https://github.com/vscode-use/utils) - vscode lodash
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
 - [monako97/neko-ui](https://github.com/monako97/neko-ui) - 基于 SolidJS、Typescript 开发的 WebComponents 组件库
