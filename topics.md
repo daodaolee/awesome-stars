@@ -71,6 +71,7 @@
 - [open-source](#open-source)
 - [openai](#openai)
 - [others](#others)
+- [productivity](#productivity)
 - [programming](#programming)
 - [pytorch](#pytorch)
 - [react](#react)
@@ -545,6 +546,11 @@
 - [KieSun/today-i-learned](https://github.com/KieSun/today-i-learned) - 记录今天学了什么
 - [Weiwf/docker-mindmap](https://github.com/Weiwf/docker-mindmap) - 利用思维导图整理的docker知识点
 - [jirengu/frontend-interview](https://github.com/jirengu/frontend-interview) - 前端笔试面试题题库
+
+## productivity 
+
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 ## programming 
 
