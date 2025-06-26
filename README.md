@@ -33,7 +33,6 @@
 
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
 - [jd-opensource/micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
-- [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [daodaolee/typora-scrolls](https://github.com/daodaolee/typora-scrolls) - A typora theme in sheepskin style💈
 - [dongyuanxin/theme-bmw](https://github.com/dongyuanxin/theme-bmw) - ✋ Smart Voice: Voice for yourself | 微声: 请为自己发声
@@ -228,6 +227,7 @@
 - [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros) - Explore and extend more macros and syntax sugar to Vue.
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
+- [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
