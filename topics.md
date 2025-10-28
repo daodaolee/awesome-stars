@@ -105,7 +105,7 @@
 
 ## ai 
 
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - It's not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from "The Three-
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -142,7 +142,7 @@
 
 ## automation 
 
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 
 ## awesome 
@@ -350,7 +350,7 @@
 ## javascript 
 
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [npmstudy/Your-First-Node.js-with-TypeScript-Course](https://github.com/npmstudy/Your-First-Node.js-with-TypeScript-Course) - 你的第一门用TS写Node.js入门课
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
@@ -442,7 +442,7 @@
 
 ## no-code 
 
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 
 ## node 
 
@@ -588,7 +588,7 @@
 ## react 
 
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -663,7 +663,7 @@
 
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [npmstudy/Your-First-Node.js-with-TypeScript-Course](https://github.com/npmstudy/Your-First-Node.js-with-TypeScript-Course) - 你的第一门用TS写Node.js入门课
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2
@@ -693,7 +693,7 @@
 
 ## visualization 
 
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
