@@ -19,7 +19,6 @@
 - [aws](#aws)
 - [azure](#azure)
 - [babel](#babel)
-- [blockchain](#blockchain)
 - [bot](#bot)
 - [c-plus-plus](#c-plus-plus)
 - [chatbot](#chatbot)
@@ -172,10 +171,6 @@
 ## babel 
 
 - [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
-
-## blockchain 
-
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
 
 ## bot 
 
