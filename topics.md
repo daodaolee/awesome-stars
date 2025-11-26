@@ -561,7 +561,7 @@
 - [daodaolee/algorithm-guide](https://github.com/daodaolee/algorithm-guide) - 算法剖析指南，针对刷过的leetcode题，记录一些常用的算法
 - [daodaolee/leetcode](https://github.com/daodaolee/leetcode) - 记录自己的leetcode刷题历程，也欢迎大家一起探讨学习📣
 - [daodaolee/typora-scrolls](https://github.com/daodaolee/typora-scrolls) - A typora theme in sheepskin style💈
-- [OPENCZ/multi-level-address](https://github.com/OPENCZ/multi-level-address) - 多级联动地址数据JSON文件；省份、城市、区县、乡镇、村庄
+- [bitqiu01/multi-level-address](https://github.com/bitqiu01/multi-level-address) - 多级联动地址数据JSON文件；省份、城市、区县、乡镇、村庄
 - [KieSun/today-i-learned](https://github.com/KieSun/today-i-learned) - 记录今天学了什么
 - [Weiwf/docker-mindmap](https://github.com/Weiwf/docker-mindmap) - 利用思维导图整理的docker知识点
 - [jirengu/frontend-interview](https://github.com/jirengu/frontend-interview) - 前端笔试面试题题库
