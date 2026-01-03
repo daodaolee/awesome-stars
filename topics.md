@@ -91,6 +91,7 @@
 - [telegram-bot](#telegram-bot)
 - [typescript](#typescript)
 - [ui](#ui)
+- [userscript](#userscript)
 - [visualization](#visualization)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -488,6 +489,7 @@
 
 ## others 
 
+- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
 - [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - [isboyjc/ai-evolution](https://github.com/isboyjc/ai-evolution) - An open-source book that chronicles the evolution of artificial intelligence — from its origins to the present and beyond. 一部持续更新的开源电子书，讲述人工智能的发展历程与技术变迁。
 - [h16nning/typora-gitbook-theme](https://github.com/h16nning/typora-gitbook-theme) - This is a Typora theme is inspired by gitbook.com. Most of the user interface has been overhauled. It contains three variants: two light variants and one dark theme.
@@ -701,6 +703,10 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [dongyuanxin/theme-bmw](https://github.com/dongyuanxin/theme-bmw) - ✋ Smart Voice: Voice for yourself | 微声: 请为自己发声
+
+## userscript 
+
+- [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 
 ## visualization 
 
