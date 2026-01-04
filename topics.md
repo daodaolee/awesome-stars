@@ -64,6 +64,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
+- [mcp](#mcp)
 - [mobile](#mobile)
 - [monitoring](#monitoring)
 - [nextjs](#nextjs)
@@ -433,6 +434,10 @@
 ## mastodon 
 
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
+
+## mcp 
+
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 
 ## mobile 
 
