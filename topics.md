@@ -585,7 +585,7 @@
 - [daodaolee/algorithm-guide](https://github.com/daodaolee/algorithm-guide) - 算法剖析指南，针对刷过的leetcode题，记录一些常用的算法
 - [daodaolee/leetcode](https://github.com/daodaolee/leetcode) - 记录自己的leetcode刷题历程，也欢迎大家一起探讨学习📣
 - [daodaolee/typora-scrolls](https://github.com/daodaolee/typora-scrolls) - A typora theme in sheepskin style💈
-- [bitqiu01/multi-level-address](https://github.com/bitqiu01/multi-level-address) - 多级联动地址数据JSON文件；省份、城市、区县、乡镇、村庄
+- [ArtCriticism/multi-level-address](https://github.com/ArtCriticism/multi-level-address) - 多级联动地址数据JSON文件；省份、城市、区县、乡镇、村庄
 - [KieSun/today-i-learned](https://github.com/KieSun/today-i-learned) - 记录今天学了什么
 - [Weiwf/docker-mindmap](https://github.com/Weiwf/docker-mindmap) - 利用思维导图整理的docker知识点
 - [jirengu/frontend-interview](https://github.com/jirengu/frontend-interview) - 前端笔试面试题题库
@@ -670,12 +670,12 @@
 
 ## telegram 
 
-- [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
+- [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 - [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
 
 ## telegram-bot 
 
-- [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
+- [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 - [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
 
 ## typescript 
