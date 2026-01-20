@@ -33,6 +33,7 @@
 
 ## CSS 
 
+- [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
 - [h16nning/typora-gitbook-theme](https://github.com/h16nning/typora-gitbook-theme) - This is a Typora theme is inspired by gitbook.com. Most of the user interface has been overhauled. It contains three variants: two light variants and one dark theme.
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
 - [jd-opensource/micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
@@ -61,7 +62,6 @@
 - [npmstudy/Your-First-Node.js-with-TypeScript-Course](https://github.com/npmstudy/Your-First-Node.js-with-TypeScript-Course) - 你的第一门用TS写Node.js入门课
 - [Quextion/ReactWTF](https://github.com/Quextion/ReactWTF) - react thinking lib.
 - [sokra/source-map-visualization](https://github.com/sokra/source-map-visualization) - Just a simple hacky visualisation of SourceMaps
-- [leochen-g/wechatBot](https://github.com/leochen-g/wechatBot) - 微信每日说，三步教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 - [yanhaijing/jslib-base](https://github.com/yanhaijing/jslib-base) - A modern JavaScript|Typescript library scaffolding, modularity, purity & extras
