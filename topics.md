@@ -500,7 +500,7 @@
 
 ## open-data 
 
-- [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
+- [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 优质中文频道与群组自动化导航站。持续追踪 1000+ 节点，智能过滤死群、引流广告与有害内容，为您提供最纯粹的 TG 中文资源精选库。
 
 ## open-source 
 
@@ -696,12 +696,12 @@
 ## telegram 
 
 - [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
-- [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
+- [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 优质中文频道与群组自动化导航站。持续追踪 1000+ 节点，智能过滤死群、引流广告与有害内容，为您提供最纯粹的 TG 中文资源精选库。
 
 ## telegram-bot 
 
 - [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
-- [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
+- [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 优质中文频道与群组自动化导航站。持续追踪 1000+ 节点，智能过滤死群、引流广告与有害内容，为您提供最纯粹的 TG 中文资源精选库。
 
 ## typescript 
 
