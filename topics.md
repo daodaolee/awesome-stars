@@ -85,6 +85,7 @@
 - [productivity](#productivity)
 - [programming](#programming)
 - [prompt-engineering](#prompt-engineering)
+- [python](#python)
 - [pytorch](#pytorch)
 - [react](#react)
 - [reactjs](#reactjs)
@@ -118,6 +119,7 @@
 
 ## agent 
 
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 
 ## ai 
@@ -448,6 +450,7 @@
 
 ## llm 
 
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 ## mac 
@@ -646,6 +649,10 @@
 ## prompt-engineering 
 
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
+
+## python 
+
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
 
 ## pytorch 
 
