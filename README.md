@@ -145,7 +145,7 @@
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
 - [yuanyuanbyte/Blog](https://github.com/yuanyuanbyte/Blog) - 圆圆的博客，预计写七个系列：JavaScript深入系列、JavaScript专题系列、网络系列、Webpack系列、Vue系列、JavaScript基础系列、HTML&CSS应知应会系列。
 - [Programming-With-Love/.github](https://github.com/Programming-With-Love/.github) - :hamburger: :heart: :moneybag: :zap: 用爱发电 (Programming With Love) 开源技术爱好者组织 | :sparkles: 组织简介 | :construction_worker: 所有成员及架构 | :penguin: 文明守则-开源精神 | :heavy_plus_sign: 加入我们 | 项目转入 :arrow_down: && 转出 :
-- [sxcool1024/Jay](https://github.com/sxcool1024/Jay) - 周杰伦无损合集，项目制作者是一个超级发烧友，购买了周杰伦全部正版碟片，本项目分享的是正版碟片提取的无损音轨，并包含专辑封面及介绍页的高清图片，点目录可查看对应专辑详情并下载。项目共15.87GB
+- [sxcool1024/Jay](https://github.com/sxcool1024/Jay) - 周杰伦无损合集，项目制作者是一个超级发烧友，购买了周杰伦全部正版碟片，本项目分享的是正版碟片提取的无损音轨，并包含专辑封面及介绍页的高清图片，点目录可查看对应专辑详情并下载。项目共16.57GB
 - [daodaolee/review-article](https://github.com/daodaolee/review-article) - 同步公众号文章，章节性的复习笔记
 - [daodaolee/algorithm-guide](https://github.com/daodaolee/algorithm-guide) - 算法剖析指南，针对刷过的leetcode题，记录一些常用的算法
 - [ArtCriticism/multi-level-address](https://github.com/ArtCriticism/multi-level-address) - 多级联动地址数据JSON文件；省份、城市、区县、乡镇、村庄
