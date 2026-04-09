@@ -557,6 +557,7 @@
 
 ## others 
 
+- [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [sz8887031-bot/kol-claw](https://github.com/sz8887031-bot/kol-claw) - KOL 投放从玄学变科学：自动找达人、量化评级、CPM 定价、生成话术、飞书协作，全链路一句话触发
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
