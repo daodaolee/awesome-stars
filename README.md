@@ -186,6 +186,7 @@
 
 ## Shell 
 
+- [daodaolee/multi-agent-skills](https://github.com/daodaolee/multi-agent-skills) - A collection of Claude Code skills for local multi-agent orchestration, planning, and developer workflows.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
 
@@ -213,7 +214,7 @@
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
-- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - An easy-to-use Canvas engine for effortless graphic interaction and editing — an infinite canvas engine for the AI era.
+- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - An easy-to-use Canvas engine for effortless graphic interaction and editing — an infinite canvas engine for the AI era. 好用的 Canvas 引擎，轻松实现图形交互与编辑，AI 时代的无限画布引擎。
 - [lucyonegit/wordflow](https://github.com/lucyonegit/wordflow) - lexical
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
