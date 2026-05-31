@@ -182,7 +182,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [roogle-rs/roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine
-- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
