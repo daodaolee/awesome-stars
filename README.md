@@ -53,7 +53,6 @@
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
 - [phodal/frontend](https://github.com/phodal/frontend) - 《大前端：前端的扩张》
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
-- [chenglou/chenglou.github.io](https://github.com/chenglou/chenglou.github.io) - 
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [Eternaldeath/BlockchainHome](https://github.com/Eternaldeath/BlockchainHome) - 构建区块链学习的知识体系合集，汇聚各种区块链资源
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2) - free V2
@@ -258,6 +257,7 @@
 - [apptools-lab/AppWorks](https://github.com/apptools-lab/AppWorks) - 🐻  基于 VS Code 插件的前端研发工具集，站点国内镜像：https://apptools.gitee.io
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
+- [chenglou/chenglou.github.io](https://github.com/chenglou/chenglou.github.io) - 
 - [InhiblabCore/vue-hooks-plus](https://github.com/InhiblabCore/vue-hooks-plus) - High performance  & Simplicity  🧲  Vue 3 Hooks library
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 - [zhlint-project/zhlint](https://github.com/zhlint-project/zhlint) - A linting tool for Chinese language.
