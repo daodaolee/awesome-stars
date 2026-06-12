@@ -200,11 +200,12 @@
 
 ## Swift 
 
-- [syi0808/screenize](https://github.com/syi0808/screenize) - Open-source macOS screen recording app with auto-zoom, cursor effects, and timeline editing — Screen Studio alternative.
+- [syi0808/screenize](https://github.com/syi0808/screenize) - (Development of Screenize is currently paused) Open-source macOS screen recording app with auto-zoom, cursor effects, and timeline editing — Screen Studio alternative.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## TypeScript 
 
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
