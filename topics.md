@@ -575,6 +575,7 @@
 
 ## others 
 
+- [joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill) - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
 - [daodaolee/multi-agent-skills](https://github.com/daodaolee/multi-agent-skills) - A collection of Claude Code skills for local multi-agent orchestration, planning, and developer workflows.
 - [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集
@@ -629,7 +630,7 @@
 - [mondaylab/vue3-api](https://github.com/mondaylab/vue3-api) - 整理vue3API相关思维导图~
 - [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
 - [zhlint-project/zhlint](https://github.com/zhlint-project/zhlint) - A linting tool for Chinese language.
-- [sunface/codecc](https://github.com/sunface/codecc) - 零一次元：记录个人关于技术、管理、经济和社会的深度思考
+- [sunface/beatui](https://github.com/sunface/beatui) - BeatUI，为 AI 打造的 UI 框架，专治各种 AI 乱象
 - [fedtop/dev-go-docs](https://github.com/fedtop/dev-go-docs) - Documentation for dev-go
 - [ddiu8081/solidjs-starter](https://github.com/ddiu8081/solidjs-starter) - Side project starter template
 - [zenozeng/Free-Chinese-Fonts](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体
