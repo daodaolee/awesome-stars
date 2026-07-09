@@ -78,7 +78,7 @@
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [KieSun/all-of-frontend](https://github.com/KieSun/all-of-frontend) - 你想知道的前端内容都在这
-- [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 ChatGPT / Claude / Kimi / DeepSeek / Ollama等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者社群分析/好友管理，检测僵尸粉等...
+- [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖 Multi-platform IM AI Agent for Telegram, WhatsApp, Lark, and WeChat. Connects ChatGPT / Claude / Kimi / DeepSeek / Ollama / Pi for auto-replies, community analysis, contact management, and inactive-
 - [LuckyWinty/blog](https://github.com/LuckyWinty/blog) - This is the project which is used as my blog.
 - [fedtop/dev-go-docs](https://github.com/fedtop/dev-go-docs) - Documentation for dev-go
 - [zenozeng/Free-Chinese-Fonts](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体
@@ -125,7 +125,7 @@
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
 - [ExerciseDB/exercisedb-api](https://github.com/ExerciseDB/exercisedb-api) - ExerciseDB API is an fitness exercise database api that allows users to access high-quality exercises data which consists 11000+ exercises. This API offers extensive information on each exercise, incl
 - [nevertoday/100-layout-compositions](https://github.com/nevertoday/100-layout-compositions) - 100 layout composition images for design and typography reference
-- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
+- [ycccccccy/WeFlow](https://github.com/ycccccccy/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
 - [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
@@ -151,7 +151,7 @@
 - [chinaBerg/awesome-canvas](https://github.com/chinaBerg/awesome-canvas) - Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - [Leecason/vue-team-talks](https://github.com/Leecason/vue-team-talks) - talks by vue core team members https://vuejs.org/about/team.html
 - [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme) - The beautiful Tailwind typography layout for Typora.
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 - [yuanyuanbyte/Blog](https://github.com/yuanyuanbyte/Blog) - 圆圆的博客，预计写七个系列：JavaScript深入系列、JavaScript专题系列、网络系列、Webpack系列、Vue系列、JavaScript基础系列、HTML&CSS应知应会系列。
 - [Programming-With-Love/.github](https://github.com/Programming-With-Love/.github) - :hamburger: :heart: :moneybag: :zap: 用爱发电 (Programming With Love) 开源技术爱好者组织 | :sparkles: 组织简介 | :construction_worker: 所有成员及架构 | :penguin: 文明守则-开源精神 | :heavy_plus_sign: 加入我们 | 项目转入 :arrow_down: && 转出 :
 - [sxcool1024/Jay](https://github.com/sxcool1024/Jay) - 周杰伦无损合集，项目制作者是一个超级发烧友，购买了周杰伦全部正版碟片，本项目分享的是正版碟片提取的无损音轨，并包含专辑封面及介绍页的高清图片，点目录可查看对应专辑详情并下载。项目共16.57GB
