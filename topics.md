@@ -607,6 +607,7 @@
 
 ## others 
 
+- [mickadesign/fluid-functionalism](https://github.com/mickadesign/fluid-functionalism) - 
 - [syabro/neat-annotations](https://github.com/syabro/neat-annotations) - Hand-drawn CSS annotations for inline content
 - [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use) - Let Pi control your apps on MacOS & Windows
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
