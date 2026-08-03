@@ -123,7 +123,7 @@
 
 ## Others 
 
-- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [ExerciseDB/exercisedb-api](https://github.com/ExerciseDB/exercisedb-api) - ExerciseDB API is an fitness exercise database api that allows users to access high-quality exercises data which consists 11000+ exercises. This API offers extensive information on each exercise, incl
 - [nevertoday/100-layout-compositions](https://github.com/nevertoday/100-layout-compositions) - 100 layout composition images for design and typography reference
 - [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
