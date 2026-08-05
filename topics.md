@@ -621,6 +621,7 @@
 
 ## others 
 
+- [daodaolee/yao](https://github.com/daodaolee/yao) - 
 - [kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director) - Turn copy into rich one-minute Gemini Omni Flash stickman video prompt packages.
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
 - [mickadesign/fluid-functionalism](https://github.com/mickadesign/fluid-functionalism) - 
