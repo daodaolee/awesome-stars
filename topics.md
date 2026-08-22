@@ -633,6 +633,7 @@
 
 ## others 
 
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 - [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill) - 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
 - [daodaolee/yao](https://github.com/daodaolee/yao) - 
 - [kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director) - Turn copy into rich one-minute Gemini Omni Flash stickman video prompt packages.
@@ -890,6 +891,7 @@
 
 ## ui 
 
+- [romainsimon/uisfx](https://github.com/romainsimon/uisfx) - UI Sound Effects for your interfaces
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
