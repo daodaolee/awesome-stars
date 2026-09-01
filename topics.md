@@ -46,6 +46,7 @@
 - [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
 - [deno](#deno)
+- [design](#design)
 - [developer-tools](#developer-tools)
 - [documentation](#documentation)
 - [education](#education)
@@ -113,6 +114,7 @@
 - [telegram-bot](#telegram-bot)
 - [typescript](#typescript)
 - [ui](#ui)
+- [ui-design](#ui-design)
 - [userscript](#userscript)
 - [video](#video)
 - [visualization](#visualization)
@@ -360,6 +362,10 @@
 
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+
+## design 
+
+- [nevertoday/350-layout-compositions](https://github.com/nevertoday/350-layout-compositions) - 350 layout composition references across visual principles, editorial design, typography, grids, web UI, film, Chinese art, and presentations.
 
 ## developer-tools 
 
@@ -645,7 +651,6 @@
 - [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support
 - [xindoo/agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns) - 谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
-- [nevertoday/100-layout-compositions](https://github.com/nevertoday/100-layout-compositions) - 100 layout composition images for design and typography reference
 - [agegr/pi-web](https://github.com/agegr/pi-web) - Web UI for the pi coding agent
 - [joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill) - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
@@ -898,6 +903,10 @@
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [dongyuanxin/theme-bmw](https://github.com/dongyuanxin/theme-bmw) - ✋ Smart Voice: Voice for yourself | 微声: 请为自己发声
+
+## ui-design 
+
+- [nevertoday/350-layout-compositions](https://github.com/nevertoday/350-layout-compositions) - 350 layout composition references across visual principles, editorial design, typography, grids, web UI, film, Chinese art, and presentations.
 
 ## userscript 
 
