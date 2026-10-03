@@ -8,7 +8,6 @@
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
-- [Dockerfile](#dockerfile)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -44,10 +43,6 @@
 - [daodaolee/typora-scrolls](https://github.com/daodaolee/typora-scrolls) - A typora theme in sheepskin style💈
 - [dongyuanxin/theme-bmw](https://github.com/dongyuanxin/theme-bmw) - ✋ Smart Voice: Voice for yourself | 微声: 请为自己发声
 
-## Dockerfile 
-
-- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-
 ## HTML 
 
 - [yang0/handraw-style](https://github.com/yang0/handraw-style) - 手绘风格编号画廊与双语提示词 Skill
@@ -71,6 +66,7 @@
 
 - [adrianpunk/Punk-Skill](https://github.com/adrianpunk/Punk-Skill) - AdrianPunk's skills
 - [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, s
+- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - [npmstudy/Your-First-Node.js-with-TypeScript-Course](https://github.com/npmstudy/Your-First-Node.js-with-TypeScript-Course) - 你的第一门用TS写Node.js入门课
 - [sokra/source-map-visualization](https://github.com/sokra/source-map-visualization) - Just a simple hacky visualisation of SourceMaps
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
