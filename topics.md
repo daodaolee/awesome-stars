@@ -145,7 +145,7 @@
 
 ## agent-skills 
 
-- [kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director) - AI stickman animation style library & video prompts.｜火柴人动画画风大全：输入话题，生成脚本、动态分镜及配音音效提示词。
+- [kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director) - Open-source AI stickman video generator for faceless YouTube channels. Automate visuals, voiceover, captions, and sound effects—or direct each scene with video prompts.
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
 - [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
