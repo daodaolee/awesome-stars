@@ -219,7 +219,7 @@
 
 ## TypeScript 
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 - [mickadesign/fluid-functionalism](https://github.com/mickadesign/fluid-functionalism) - 
 - [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use) - Let Pi control your apps on MacOS & Windows
