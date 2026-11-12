@@ -284,7 +284,7 @@
 - [InhiblabCore/vue-hooks-plus](https://github.com/InhiblabCore/vue-hooks-plus) - High performance  & Simplicity  🧲  Vue 3 Hooks library
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 - [zhlint-project/zhlint](https://github.com/zhlint-project/zhlint) - A linting tool for Chinese language.
-- [sunface/beatui](https://github.com/sunface/beatui) - BeatUI，为 AI 打造的 UI 框架，专治各种 AI 乱象
+- [CodeCraftCosmos/beatui](https://github.com/CodeCraftCosmos/beatui) - BeatUI，为 AI 打造的 UI 框架，专治各种 AI 乱象
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [fedtop/DevGo](https://github.com/fedtop/DevGo) - 🤖 DevGo 是一个面向开发者的浏览器效率扩展，聚焦翻译、GitHub 增强、新标签页效率工具与页面调试辅助能力。💪
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
