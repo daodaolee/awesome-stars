@@ -106,7 +106,6 @@
 - [react](#react)
 - [reactjs](#reactjs)
 - [rest-api](#rest-api)
-- [robotics](#robotics)
 - [rust](#rust)
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
@@ -865,10 +864,6 @@
 ## rest-api 
 
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
-
-## robotics 
-
-- [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
 
 ## rust 
 
