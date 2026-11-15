@@ -83,7 +83,6 @@
 - [KieSun/all-of-frontend](https://github.com/KieSun/all-of-frontend) - 你想知道的前端内容都在这
 - [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖 Multi-platform IM AI Agent for Telegram, WhatsApp, Lark, and WeChat. Connects ChatGPT / Claude / Kimi / DeepSeek / Ollama / Pi for auto-replies, community analysis, contact management, and inactive-
 - [LuckyWinty/blog](https://github.com/LuckyWinty/blog) - This is the project which is used as my blog.
-- [fedtop/dev-go-docs](https://github.com/fedtop/dev-go-docs) - Documentation for dev-go
 - [zenozeng/Free-Chinese-Fonts](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体
 - [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 - [ecomfe/fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly
@@ -145,6 +144,7 @@
 - [BFEdev/BFE.dev-solutions](https://github.com/BFEdev/BFE.dev-solutions) - Solutions to questions on BFE.dev
 - [Chenyu-otf/chenyuluoyan_thin](https://github.com/Chenyu-otf/chenyuluoyan_thin) - 「辰宇落雁體」是我與韋辰在學校的自主學習計畫，由韋辰負責書寫，我進行後製而成。手寫字型就像是我們將字詞複寫於紙上，讓字跡留下，以這種近似雋永的形式封裝，使被複寫的日常沒有保存期限，也像是一種永恆的召喚，在任何無法抵達的以後，都能為你書寫成篇。
 - [mondaylab/vue3-api](https://github.com/mondaylab/vue3-api) - 整理vue3API相关思维导图~
+- [fedtop/dev-go-docs](https://github.com/fedtop/dev-go-docs) - Documentation for dev-go
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [webpack-china/awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) - [印记中文](https://docschina.org/) - webpack 优秀中文文章
 - [ydsuper/Typora_Free_Download](https://github.com/ydsuper/Typora_Free_Download) - Typora _v0.11.18 最新免费版安装包（后面的v1.0就开始收费了）
