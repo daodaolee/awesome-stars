@@ -68,6 +68,7 @@
 - [adrianpunk/Punk-Posters](https://github.com/adrianpunk/Punk-Posters) - AdrianPunk's skills
 - [kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director) - AI Agent Skill (Claude Code, Codex & more): Turn any script into animated stickman videos for faceless YouTube, Shorts & TikTok. 20+ styles with voiceover, captions & SFX. Free & open-source (MIT).
 - [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, s
+- [nevertoday/350-layout-compositions](https://github.com/nevertoday/350-layout-compositions) - 350 layout composition references across visual principles, editorial design, typography, grids, web UI, film, Chinese art, and presentations.
 - [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - [npmstudy/Your-First-Node.js-with-TypeScript-Course](https://github.com/npmstudy/Your-First-Node.js-with-TypeScript-Course) - 你的第一门用TS写Node.js入门课
 - [sokra/source-map-visualization](https://github.com/sokra/source-map-visualization) - Just a simple hacky visualisation of SourceMaps
@@ -174,7 +175,6 @@
 - [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support
 - [joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
-- [nevertoday/350-layout-compositions](https://github.com/nevertoday/350-layout-compositions) - 350 layout composition references across visual principles, editorial design, typography, grids, web UI, film, Chinese art, and presentations.
 - [joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill) - Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) - Practical bilingual AI prompt library for prompt engineering, work, learning, content, marketing, and everyday use.
@@ -255,8 +255,8 @@
 - [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting & image-upscaling tool powered by webgpu and wasm on the browser。|   基于 Webgpu 技术和 wasm 技术的免费开源 inpainting & image-upscaling 工具, 纯浏览器端实现。
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-- [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架
-- [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) - Interactive CLI that bumps your version numbers and more
+- [Tencent/wujie](https://github.com/Tencent/wujie) - A micro-frontend framework based on Web Components and iframe — ultra-low cost, fast rendering, and native isolation.
+- [made-in-common/bumpp](https://github.com/made-in-common/bumpp) - Interactive CLI that bumps your version numbers and more
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [Simon-He95/vitesse-vscode](https://github.com/Simon-He95/vitesse-vscode) - Starter template for VS Code Extension
 - [daodaolee/tree-log](https://github.com/daodaolee/tree-log) - 
